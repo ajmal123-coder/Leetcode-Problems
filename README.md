@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 ## Simulation
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0344-reverse-string) |
 ## Binary Search
