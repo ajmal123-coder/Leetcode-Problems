@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Hash Table
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
