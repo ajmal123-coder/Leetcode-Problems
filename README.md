@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 ## String
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0268-missing-number) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Counting
 |  |
@@ -74,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0268-missing-number) |
 ## String Matching
 |  |
 | ------- |
@@ -82,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
