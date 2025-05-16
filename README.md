@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching
 |  |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0268-missing-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
