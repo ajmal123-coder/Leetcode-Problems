@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0520-detect-capital) |
 ## Simulation
 |  |
 | ------- |
