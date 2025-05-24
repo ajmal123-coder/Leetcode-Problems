@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0520-detect-capital) |
+| [0680-valid-palindrome-ii](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0680-valid-palindrome-ii](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0278-first-bad-version) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
