@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0520-detect-capital) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
