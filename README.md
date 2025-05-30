@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [2058-concatenation-of-array](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 ## Array
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [2058-concatenation-of-array](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/2058-concatenation-of-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
