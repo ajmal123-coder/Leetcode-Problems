@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [1260-day-of-the-year](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/1260-day-of-the-year) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/0742-to-lower-case) |
+| [1260-day-of-the-year](https://github.com/ajmal123-coder/Leetcode-Problems/tree/master/1260-day-of-the-year) |
 ## Simulation
 |  |
 | ------- |
